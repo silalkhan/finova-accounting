@@ -61,7 +61,7 @@ export default function Navbar() {
               whileTap={{ scale: 0.95 }}
               className="bg-gradient-to-r from-blue-600 to-blue-700 text-white px-6 py-2 rounded-lg hover:shadow-lg transition-all duration-200"
             >
-              Get
+              Get Started
             </motion.button>
           </motion.div>
 
