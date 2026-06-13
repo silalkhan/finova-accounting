@@ -24,7 +24,7 @@ export default function FAQ() {
 
         {/* FAQ Accordion */}
         <div className="space-y-4">
-          {faqs.map((faq, index) => (
+          {faqs.map((faq) => (
             <div
               key={faq.id}
               className="group border border-gray-200 rounded-xl overflow-hidden hover:border-blue-300 transition-all duration-300 bg-white hover:shadow-lg"

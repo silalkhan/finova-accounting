@@ -50,7 +50,7 @@ export default function FAQ() {
           whileInView="visible"
           viewport={{ once: true }}
         >
-          {faqs.map((faq, index) => (
+          {faqs.map((faq) => (
             <motion.div
               key={faq.id}
               variants={itemVariants}

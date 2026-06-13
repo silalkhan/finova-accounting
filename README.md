@@ -108,14 +108,3 @@ Deploy easily on:
 ## 👨‍💻 Author
 
 Built by Silal Khan using React + Tailwind CSS
-
----
-
-/screenshots/
-home.png
-services.png
-contact.png
-
-```
-
-```

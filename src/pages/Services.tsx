@@ -81,7 +81,7 @@ export default function ServicesPage() {
             whileInView="visible"
             viewport={{ once: true }}
           >
-            {services.map((service, i) => (
+            {services.map((service) => (
               <motion.div
                 key={service.id}
                 variants={itemVariants}
