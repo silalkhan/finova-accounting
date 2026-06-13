@@ -107,17 +107,15 @@ Deploy easily on:
 
 ## 👨‍💻 Author
 
-Built by Frontend Developer using React + Tailwind CSS
+Built by Silal Khan using React + Tailwind CSS
 
 ---
 
-## 📸 Important: Add Screenshots Folder
-
-Create this folder structure:
+/screenshots/
+home.png
+services.png
+contact.png
 
 ```
-/screenshots/
-    home.png
-    services.png
-    contact.png
+
 ```
