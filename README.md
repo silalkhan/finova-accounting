@@ -84,8 +84,7 @@ npm run build
 
 Deploy easily on:
 
-- Vercel
-- Netlify
+https://finova-accounting.vercel.app/
 
 ---
 
